@@ -1,0 +1,8 @@
+.bg-amarelo {
+    background-color: #fff59d;
+    height: 100%;
+}
+
+.audio-display-none {
+    display: none !important;
+}
